@@ -74,4 +74,4 @@ tokens-optimizer/
 
 ---
 **作者：David**
-**联系方式：david@example.com**
+**联系方式：smartclawbot@163.com**
